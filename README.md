@@ -1,4 +1,4 @@
-My [Vial](https://get.vial.today/) keymap for a 36-key Corne v4 — [corne-v4-36.vil](corne-v4-36.vil).
+My [Vial](https://get.vial.today/) keymap for a [36-key Corne v4](https://www.keebart.com/de/produkte/corne) — [corne-v4-36.vil](corne-v4-36.vil).
 
 It is essentially [Miryoku](https://github.com/manna-harbour/miryoku) (home row
 mods, six thumb layer-taps, mirrored modifiers on every layer) with the
